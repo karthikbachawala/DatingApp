@@ -449,3 +449,7 @@ $RECYCLE.BIN/
 
 
 appsettings.json
+
+
+git config --global user.name "Karthik Bachawala"
+git config --global user.email "1karthik.b@gmail.com"
